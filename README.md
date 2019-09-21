@@ -49,7 +49,7 @@ OSSC ManuFerHi version <BR>
 </p>
 <h2> <span class="mw-headline" id="Basic_usage"> Basic usage </span></h2>
 <h3> <span class="mw-headline" id="Remote_control"> Remote control </span></h3>
-<div class="thumb tright"><div class="thumbinner" style="width:394px;"><a href="index.php?title=File:Ossc_remote2.jpg" class="image"><img alt="" src="/xrgb/images/9/9b/Ossc_remote2.jpg" width="392" height="500" class="thumbimage" /></a>  <div class="thumbcaption">Default remote control keymap</div></div></div>
+<div class="thumb tright"><div class="thumbinner" style="width:394px;"><a href="Ossc_remote2.jpg" class="image"><img alt="" src="/xrgb/images/9/9b/Ossc_remote2.jpg" width="392" height="500" class="thumbimage" /></a>  <div class="thumbcaption">Default remote control keymap</div></div></div>
 <p>The OSSC is available with a pre-programmed infrared remote. This is optional, and can be replaced with a suitable programmable/learning remote if desired (see <a href="#Remote_control_setup">Remote control setup</a>).
 </p>
 <ul><li> 0-9: Selects AV source and input format. See remote picture on the side for reference.
