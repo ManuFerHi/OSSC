@@ -23,6 +23,13 @@ OSSC ManuFerHi version <BR>
 </li><li> Selectable sampling configuration for 480p input: DTV-480p or VGA 640x480
 </li><li> Selectable CSC configuration for YPbPr source: Rec. 601 or Rec. 709
 </li></ul>
+</li></ul>
+<h2> <span class="mw-headline" id="Power"> Power </span></h2>
+<p>OSSC requires an external DC power supply. A unit that outputs 5 volts DC with at least 1 Amp will work. The tip must be 2.1 x 5.5mm and centre positive. Suitable power supplies can be purchased from <a rel="nofollow" class="external text" href="https://www.videogameperfection.com/products/replacement-psu-for-ossc/">VideoGamePerfection.com</a> or from any good electronics retailer.
+</p><p>If desired, a USB to Barrel Jack adapter can be used. This will function correctly as long as the USB port or charger used in conjunction with OSSC outputs at least 1 amp of current. Such adapters can often be found on <a rel="nofollow" class="external text" href="https://www.amazon.co.uk/Barrel-Jack-Adapter-USB-5-5mm/dp/B00LX8MULA">Amazon</a> or other popular retailers.
+</p><p>Do not use a power supply rated for AC output, or a power supply rated higher than 5 volts DC, doing so can damage the OSSC. 
+</p><p>Using a supply that provides less than one amp of current may cause the OSSC to reset, especially when outputting at higher resolutions. You can however, safely use a PSU rated at least one amp or higher.
+</p>
 
 
 
