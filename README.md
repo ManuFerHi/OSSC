@@ -1,4 +1,4 @@
-# Sidewinder FPGA
+# OSSC [Open source scan converter]
 
 ![alt text](https://i.postimg.cc/pr5QGMW4/IMG-20181014-200007.jpg)
 
