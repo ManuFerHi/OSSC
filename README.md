@@ -41,11 +41,11 @@ OSSC ManuFerHi version <BR>
 <p>The AV3 input is a VGA/HD-15 connector which supports video in <b>RGBHV</b>, <b>RGBS</b> (pin 13), <b>RGsB</b> and <b>YPbPr</b> formats. RGBHV and RGBS modes require clean TTL-level sync signals and cannot extract sync from composite video or luma. AV3 is best suited for high-quality input sources as video LPF functionality is limited (the AV1 and AV2 inputs are routed through a dedicated LPF chip). Therefore, it is generally recommended to connect older consoles and arcade boards to these other inputs.
 </p>
 <h2> <span class="mw-headline" id="AV_outputs"> AV outputs </span></h2>
-<h3> <span class="mw-headline" id="HDMI_.28DIY_boards.2C_v1.6_pre-assembled_boards.29"> HDMI (DIY boards, v1.6 pre-assembled boards) </span></h3>
-<p>DIY and newer pre-assembled boards contain a HDMI connector which is used to transmit video data in 24bit RGB format. Digital audio output is available on v1.6 boards, while it can be added via an add-on board for earlier boards (see below) . Currents up to 200mA can be safely supplied via DDC 5V power pin to external devices such as active cables.
+<h3> <span class="mw-headline" id="HDMI_.28DIY_boards.2C_v1.6_pre-assembled_boards.29"> HDMI </span></h3>
+<p>HDMI connector which is used to transmit video data in 24bit RGB format. Currents up to 200mA can be safely supplied via DDC 5V power pin to external devices such as active cables.
 </p>
 <h3> <span class="mw-headline" id="AV1_audio"> AV1 audio </span></h3>
-<p>Analog audio from SCART input is bypassed to a 3.5mm stereo output jack next to video output connector. On v1.6 boards the jack alternatively functions as AV2 audio input, selectable via a miniature switch.
+<p>Analog audio from SCART input is bypassed to a 3.5mm stereo output jack next to video output connector. The jack alternatively functions as AV2 audio input, selectable via a miniature switch.
 
 
 	
