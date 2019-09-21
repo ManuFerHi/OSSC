@@ -46,7 +46,35 @@ OSSC ManuFerHi version <BR>
 </p>
 <h3> <span class="mw-headline" id="AV1_audio"> AV1 audio </span></h3>
 <p>Analog audio from SCART input is bypassed to a 3.5mm stereo output jack next to video output connector. The jack alternatively functions as AV2 audio input, selectable via a miniature switch.
-
+</p>
+<h2> <span class="mw-headline" id="Basic_usage"> Basic usage </span></h2>
+<h3> <span class="mw-headline" id="Remote_control"> Remote control </span></h3>
+<div class="thumb tright"><div class="thumbinner" style="width:394px;"><a href="/xrgb/index.php?title=File:Ossc_remote2.jpg" class="image"><img alt="" src="/xrgb/images/9/9b/Ossc_remote2.jpg" width="392" height="500" class="thumbimage" /></a>  <div class="thumbcaption">Default remote control keymap</div></div></div>
+<p>The OSSC is available with a pre-programmed infrared remote. This is optional, and can be replaced with a suitable programmable/learning remote if desired (see <a href="#Remote_control_setup">Remote control setup</a>).
+</p>
+<ul><li> 0-9: Selects AV source and input format. See remote picture on the side for reference.
+</li><li> MENU: Activates/deactivates menu at on-board character LCD display
+</li><li> OK: Selects sub-menu or function
+</li><li> BACK: Returns to previous menu level or from info page to normal source display page
+</li><li> UP/DOWN: Selects next/previous menu option
+</li><li> LEFT/RIGHT: Option value -/+
+</li><li> INFO: Displays extra information on video source processing. Top row shows current profile and current video mode preset. Bottom row shows accurate timing data from FPGA: lines per frame, p/i status, special processing (indicated by *) and cycles per frame (divide 27000000 by it to get Hz),
+</li><li> LCD_BACKLIGHT: Turns on-board character LCD backlight off/on
+</li><li> SCANLINE_MODE: Hotkey for selecting next "Scanlines" option value
+</li><li> SCANLINE_TYPE: Hotkey for selecting next "Scanline type" option value
+</li><li> SCANLINE_INT+/-: Hotkeys for adjusting scanline strength
+</li><li> LINEMULT_MODE: Hotkey for selecting line multiplication mode for current video mode
+</li><li> SAMP_PHASE+/-: Hotkey for sampling phase adjustment
+</li><li> PROFILE_LOAD: Hotkey for quickloading a profile. Press again to enable selection of profiles 10 and higher
+</li></ul>
+<h3> <span class="mw-headline" id="PCB_buttons"> PCB buttons </span></h3>
+<ul><li> BTN0: Next input/mode
+</li><li> BTN1: Select between scanlines off/auto/manual
+</li></ul>
+<h3> <span class="mw-headline" id="Status_LEDs"> Status LEDs </span></h3>
+<ul><li> Green: Power on. Light off when IR remote code detected
+</li><li> Red: Unstable sync when alight.
+</li></ul>
 
 	
 
