@@ -480,6 +480,52 @@ OSSC ManuFerHi version <BR>
 <h2> <span class="mw-headline" id="Compatibility_and_special_configuration"> Compatibility and special configuration </span></h2>
 <p>We encourage the community to add sections under each system instead of having an enormous table here. That way we can have more detailed and specific information on a per system basis, and here links to all the systems tested so far. A link to a summary page of potentially incompatible systems is found at the end of the list.
 </p>
+<h3> <span class="mw-headline" id="Home_consoles"> Home consoles </span></h3>
+<ul><li> Atari <a href="/xrgb/index.php?title=2600" title="2600">2600</a>
+</li><li> Atari 5200
+</li><li> Atari <a href="/xrgb/index.php?title=Jaguar" title="Jaguar">Jaguar</a>
+</li><li> Microsoft <a href="/xrgb/index.php?title=Xbox" title="Xbox">Xbox</a>
+</li><li> Microsoft <a href="/xrgb/index.php?title=Xbox_360" title="Xbox 360">Xbox 360</a>
+</li><li> NEC <a href="/xrgb/index.php?title=PC_Engine" title="PC Engine">PC Engine</a>
+</li><li> Nintendo <a href="/xrgb/index.php?title=N64" title="N64">64</a>
+</li><li> Nintendo <a href="/xrgb/index.php?title=NES" title="NES">NES / Famicom</a>
+</li><li> Nintendo <a href="/xrgb/index.php?title=Gamecube" title="Gamecube">Gamecube</a>
+</li><li> Nintendo <a href="/xrgb/index.php?title=Super_NES" title="Super NES">Super NES / Super Famicom</a>
+</li><li> Nintendo <a href="/xrgb/index.php?title=Wii" title="Wii">Wii</a>
+</li><li> Sega <a href="/xrgb/index.php?title=Dreamcast" title="Dreamcast">Dreamcast</a>
+</li><li> Sega <a href="/xrgb/index.php?title=Sega_Genesis" title="Sega Genesis">Genesis / Mega Drive</a>
+</li><li> Sega <a href="/xrgb/index.php?title=Master_System" title="Master System">Master System</a>
+</li><li> Sega <a href="/xrgb/index.php?title=Saturn" title="Saturn">Saturn</a>
+</li><li> SNK <a href="/xrgb/index.php?title=Neo_Geo_AES" title="Neo Geo AES">Neo Geo</a>
+</li><li> Sony <a href="/xrgb/index.php?title=Playstation" title="Playstation">PlayStation</a>
+</li><li> Sony <a href="/xrgb/index.php?title=Playstation_2" title="Playstation 2">PlayStation 2</a>
+</li><li> Sony <a href="/xrgb/index.php?title=Playstation_Portable" title="Playstation Portable">PlayStation Portable</a>
+</li></ul>
+<h3> <span class="mw-headline" id="Computers"> Computers </span></h3>
+<ul><li> <a href="/xrgb/index.php?title=Atari_8-bit_family" title="Atari 8-bit family">Atari 8-bit family</a>
+</li><li> Commodore <a href="/xrgb/index.php?title=Amiga" title="Amiga">Amiga</a>
+</li><li> Commodore <a href="/xrgb/index.php?title=C64" title="C64">64</a>
+</li><li> MGT <a href="/xrgb/index.php?title=Sam_Coup%C3%A9" title="Sam Coupé">Sam Coupé</a>
+</li><li> MSX
+</li><li> Sinclair <a href="/xrgb/index.php?title=Spectrum" title="Spectrum">ZX Spectrum</a>
+</li></ul>
+<h3> <span class="mw-headline" id="Arcade_Boards"> Arcade Boards </span></h3>
+<ul><li> Capcom <a href="/xrgb/index.php?title=CPS-II" title="CPS-II">CPS-II</a>
+</li><li> Data East <a href="/xrgb/index.php?title=Caveman_Ninja_Hardware" title="Caveman Ninja Hardware">Caveman Ninja Hardware</a>
+</li><li> Irem <a href="/xrgb/index.php?title=M92" title="M92">M92</a>
+</li><li> Nintendo <a href="/xrgb/index.php?title=Playchoice_10" title="Playchoice 10">Playchoice 10</a>
+</li><li> Namco <a href="/xrgb/index.php?title=Gaplus" title="Gaplus">Gaplus</a>
+</li><li> Sega <a href="/xrgb/index.php?title=Model_2" title="Model 2">Model 2</a>
+</li><li> Seibu <a href="/xrgb/index.php?title=SPI" title="SPI">SPI</a>
+</li><li> SNK <a href="/xrgb/index.php?title=Hal_21" title="Hal 21">Hal 21</a>
+</li><li> SNK <a href="/xrgb/index.php?title=Neo_Geo_MVS" title="Neo Geo MVS">Neo Geo MVS</a>
+</li><li> Sony <a href="/xrgb/index.php?title=ZN-1" title="ZN-1">ZN-1</a>
+</li><li> Taito <a href="/xrgb/index.php?title=F2" title="F2">F2</a>
+</li><li> Taito <a href="/xrgb/index.php?title=FX-1B" title="FX-1B">FX-1B</a>
+</li><li> Taito <a href="/xrgb/index.php?title=F3" title="F3">F3</a>
+</li><li> Toaplan <a href="/xrgb/index.php?title=V1" title="V1">V1</a>
+</li><li> Toaplan <a href="/xrgb/index.php?title=V2" title="V2">V2</a>
+</li></ul>
 
 	
 
