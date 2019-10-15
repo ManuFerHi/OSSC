@@ -77,6 +77,7 @@ OSSC ManuFerHi version <BR>
 <ul><li> Green: Power on. Light off when IR remote code detected
 </li><li> Red: Unstable sync when alight.
 </li></ul>
+![alt text](https://i.postimg.cc/LXdc0B37/Ossc-remote2.jpg)
 
 	
 
