@@ -1,6 +1,6 @@
 # OSSC [Open source scan converter]
 
-![alt text](https://i.postimg.cc/pr5QGMW4/IMG-20181014-200007.jpg)
+![alt text](https://i.postimg.cc/g0xtpX0W/IMG-20191015-211618.jpg)
 
 OSSC ManuFerHi version <BR>
 
