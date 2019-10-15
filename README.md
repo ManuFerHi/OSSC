@@ -80,7 +80,7 @@ OSSC ManuFerHi version <BR>
 </li><li> Red: Unstable sync when alight.
 </li></ul>
 
-For more information please visit oficial OSSC page http://junkerhq.net/xrgb/index.php?title=OSSC#Introduction
+For more information please visit oficial OSSC page http://junkerhq.net/xrgb/index.php?title=OSSC
 
 	
 
