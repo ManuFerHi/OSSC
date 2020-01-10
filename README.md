@@ -86,7 +86,6 @@ For more information please visit oficial OSSC page http://junkerhq.net/xrgb/ind
 
 =======<BR>
 For purchase OSSC visit my store http://www.manuferhi.com<BR>
-For more information, contact with manuferhi@gmail.com
 
 
 
